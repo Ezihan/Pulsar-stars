@@ -1,5 +1,5 @@
 # Pulsar-stars
-The following data set describes a sample of pulsar candidates collected during the High Time Resolution Universe Survey .
+The following data set describes a sample of pulsar candidates.
 
 ## Description
 Pulsars are a rare type of Neutron star that produce radio emission detectable here on Earth. They are of considerable scientific interest as probes of space-time, the inter-stellar medium, and states of matter.
